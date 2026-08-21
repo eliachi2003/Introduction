@@ -13,7 +13,7 @@ through hands-on data analytics projects.
 ## Technical Skills
 
 - **Data Analytics:** SQL, Power BI, Excel
-- **Programming:** Python, C++, C#
+- **Programming:** Python
 - **Data:** Data Cleaning, Data Visualization, Data Analysis
 
 ##  Projects
