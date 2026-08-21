@@ -16,6 +16,6 @@ through hands-on data analytics projects.
 - **Programming:** Python, C++, C#
 - **Data:** Data Cleaning, Data Visualization, Data Analysis
 
-## 📊 Projects
+##  Projects
 
 Projects coming soon! 
