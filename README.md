@@ -1,4 +1,4 @@
-# Introduction
+
 # Hi, I'm Ericka Ramirez 
 
 ### Computer Engineer | Data Analyst
