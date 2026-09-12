@@ -1,4 +1,4 @@
-# ErickaRamirez
+# Introduction
 # Hi, I'm Ericka Ramirez 
 
 ### Computer Engineer | Data Analyst
@@ -16,6 +16,3 @@ through hands-on data analytics projects.
 - **Programming:** Python
 - **Data:** Data Cleaning, Data Visualization, Data Analysis
 
-##  Projects
-
-Projects coming soon! 
